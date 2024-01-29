@@ -8,7 +8,7 @@
         },
         "admob": {
             "mrec": "ca-app-pub-3940256099942544/6300978111",
-            "active": true,
+            "active": false,
             "banner": "ca-app-pub-3940256099942544/6300978111",
             "native": "ca-app-pub-3940256099942544/2247696110",
             "interstitial": "ca-app-pub-3940256099942544/1033173712"
@@ -35,94 +35,6 @@
             "path": "Download/FoodPlus.mcaddon",
             "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
             "title": "Food's Plus 1",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-        },
-        {
-            "app": "minecraft",
-            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/FoodPlus.mcaddon",
-            "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-            "title": "Food's Plus 3",
             "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
         }
     ],
