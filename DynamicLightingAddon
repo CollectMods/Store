@@ -35,7 +35,7 @@
             "path": "Download/DynamicLightingAddon1.mcaddon",
             "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(21).jpeg",
             "title": "Dynamic Lighting Addon 1",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+            "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
         },
             {
             "app": "minecraft",
@@ -43,7 +43,7 @@
             "path": "Download/DynamicLightingAddon2.mcaddon",
             "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(22).jpeg",
             "title": "Dynamic Lighting Addon 2",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+            "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
         }
     ],
     "settings": {
