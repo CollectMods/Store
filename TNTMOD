@@ -32,12 +32,19 @@
         {
             "app": "minecraft",
             "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/TNTMOD.mcaddon",
-            "image": "https://files.catbox.moe/atwdrg.jpg",
+            "path": "Download/TNTMOD1.mcaddon",
+            "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(77).jpeg",
             "title": "TNTMOD 1",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+            "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+        },
+               {
+            "app": "minecraft",
+            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+            "path": "Download/TNTMOD2.mcaddon",
+            "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(78).jpeg",
+            "title": "TNTMOD 1",
+            "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
         }
-       
     ],
     "settings": {
         "apps": "https://api.npoint.io/cc52cb13679cb04298db",
