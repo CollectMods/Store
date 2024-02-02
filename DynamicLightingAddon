@@ -32,12 +32,19 @@
         {
             "app": "minecraft",
             "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-            "path": "Download/DynamicLightingAddon.mcaddon",
-            "image": "https://files.catbox.moe/x5p6nh.jpeg",
+            "path": "Download/DynamicLightingAddon1.mcaddon",
+            "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(21).jpeg",
             "title": "Dynamic Lighting Addon 1",
             "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+        },
+            {
+            "app": "minecraft",
+            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+            "path": "Download/DynamicLightingAddon2.mcaddon",
+            "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(22).jpeg",
+            "title": "Dynamic Lighting Addon 2",
+            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
         }
-       
     ],
     "settings": {
         "apps": "https://api.npoint.io/cc52cb13679cb04298db",
