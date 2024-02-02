@@ -33,9 +33,17 @@
             "app": "minecraft",
             "url": "https://files.catbox.moe/yw1vyf.mcaddon",
             "path": "Download/PokémonAddon.mcaddon",
-            "image": "https://files.catbox.moe/jih99s.jpg",
-            "title": "PokémonAddon 1",
-            "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+            "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(18).jpeg",
+            "title": "PokemonAddon 1",
+            "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+        },
+     {
+            "app": "minecraft",
+            "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+            "path": "Download/PokémonAddon.mcaddon",
+            "image": "https://raw.githubusercontent.com/CollectMods/Img/main/Designer%20(19).jpeg",
+            "title": "PokemonAddon 2",
+            "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
         }
        
     ],
